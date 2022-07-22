@@ -172,11 +172,9 @@ This one works as the opposite from the previous section. Turn the inactive bar 
 ## Submit Function
 This function get the input search and add as string to the actual YouTube search address. 
 
-####Javascript　
-
 ```javascript
 	let input_search = document.getElementById("input_search").value;
-    window.open("https://www.youtube.com/results?search_query="+input_search);
+	window.open("https://www.youtube.com/results?search_query="+input_search);
 ```
 
 
