@@ -1,7 +1,7 @@
 ![main_ytb](https://user-images.githubusercontent.com/102761127/180124363-19f80e33-e042-4bb1-a9c8-d18a8722fe0a.png)
 
 Live website:
-https://leonardoacr.github.io/Youtube-Clone-Dark-Theme/
+https://leonardoacr.github.io/youtube-clone-dark-theme/
 
 As being my first big HTML/CSS and Javascript project, this content is meant to be a personal note for future remembrance of how this YouTube Home clone was made.
 
